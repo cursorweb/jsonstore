@@ -1,3 +1,4 @@
+#  [![Run on Repl.it](https://repl.it/badge/github/cursorweb/PythonPlantsVsZombies)](https://repl.it/github/cursorweb/PythonPlantsVsZombies)
 <p align="center">
 <img src="https://i.imgur.com/a4K03fL.png" height="75" />
 <img src="https://i.imgur.com/qjXkfUY.png" height="75" />
