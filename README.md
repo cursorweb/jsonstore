@@ -13,6 +13,9 @@
 Start storing your data in the cloud in 2 seconds
 </p>
 
+# repl.it
+Repl.it just annouced a new way to parse code from the repo! Check it out: https://repl.it
+
 ## jsonstore.io
 jsonstore.io offers a free, secured and JSON based cloud datastore for small projects.
 Just enter https://www.jsonstore.io/, copy the URL and start sending HTTP requests to communicate with your datastore.
